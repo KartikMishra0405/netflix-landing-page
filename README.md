@@ -1,5 +1,5 @@
 # netflix-landing-page
-A responsive clone of the Netflix landing page built using HTML and CSS.
+A fully responsive Netflix landing page clone built from scratch using HTML and CSS, focusing on layout precision, modern UI design, and smooth user interactions.
 
 ## Features
 - Fully responsive design
